@@ -1,0 +1,16 @@
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\bin\Debug\net5.0\LessonUnitTests.exe
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\bin\Debug\net5.0\LessonUnitTests.deps.json
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\bin\Debug\net5.0\LessonUnitTests.runtimeconfig.json
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\bin\Debug\net5.0\LessonUnitTests.runtimeconfig.dev.json
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\bin\Debug\net5.0\LessonUnitTests.dll
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\bin\Debug\net5.0\ref\LessonUnitTests.dll
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\bin\Debug\net5.0\LessonUnitTests.pdb
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.csprojAssemblyReference.cache
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.AssemblyInfoInputs.cache
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.AssemblyInfo.cs
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.csproj.CoreCompileInputs.cache
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.dll
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\ref\LessonUnitTests.dll
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.pdb
+C:\MyDocz\Repositories\LessonUnitTests\LessonUnitTests\obj\Debug\net5.0\LessonUnitTests.genruntimeconfig.cache
